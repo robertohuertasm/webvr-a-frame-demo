@@ -1,0 +1,14 @@
+{
+  "name": "quack-whack",
+  "version": "1.0.0",
+  "description": "WebVR with A-Frame",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
